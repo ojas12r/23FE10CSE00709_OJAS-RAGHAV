@@ -1,4 +1,4 @@
-# Lab 4 - SVM Classification with GridSearchCV
+# Lab 5 - SVM Classification with GridSearchCV
 # Dataset: Wholesale Customers Data
 
 import pandas as pd
